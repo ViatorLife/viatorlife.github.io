@@ -1,4 +1,13 @@
+---
+title: 使用 Jeklly + Github Pages 搭建个人博客(1)
+author: wizard
+date: 2023-02-21 17:04:00 +0800
+categories: [博客搭建]
+tags: [Jekyll, GitHub Pages]
+---
+
 [https://www.cnblogs.com/CKExp/p/17935007.html](https://www.cnblogs.com/CKExp/p/17935007.html)
+
 
 
 ## 前言
