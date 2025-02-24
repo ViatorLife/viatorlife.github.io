@@ -1,6 +1,6 @@
 ---
-title: 使用 Jeklly + Github Pages 搭建个人博客(1)
-author: wizard
+title: aaabbbtest
+author: viatorlife
 date: 2023-02-21 17:04:00 +0800
 categories: [博客搭建]
 tags: [Jekyll, GitHub Pages]
